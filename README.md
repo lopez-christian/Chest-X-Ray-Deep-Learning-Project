@@ -77,3 +77,7 @@ The model performed quite well in the training phase as it shows it improved in 
 *2. There is the prospect of less mistakes being made while also looking at a greater amount of pictures at any given time. Having a doctor look at countless pictures of patients' lungs can be quite a lengthy process, which can lead to many errors being made along the way. A neural network can be employed in order to cut out some of the work and make initial deductions. This would relieve any doctor's stress at having to sift through a great deal of images. The neural network would be able to assign probabilities to each image and then the doctor can step in and look at each image with a more rigorous eye to determine the diagnosis.*
 
 *3. Implementing a neural network can prove to yield a greater ROI for the institution in the long-run. Therefore, the doctors would be allowed more time to invest or focus their time on less repetitive tasks that cannot be automated. The less time the doctors expend looking at images to arrive at a diagnosis, the more time they can allocate to dealing with more demanding procedures.*
+
+<p align="center">
+<img width="661" alt="Screen Shot 2020-08-10 at 2 42 42 PM" src="https://user-images.githubusercontent.com/53641091/89834895-8842d200-db18-11ea-98c5-4f01d9642f56.png">
+</p>
